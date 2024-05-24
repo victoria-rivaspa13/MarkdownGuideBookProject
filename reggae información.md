@@ -33,12 +33,12 @@ Su ritmo distintivo se basa en un contrapunto entre el golpe fuerte del bajo y l
 Las guitarras suelen tocar patrones rítmicos o líneas de acordes simples.
 
 ## Imágenes del reggae
-![img.png](img.png)
+![img.png](2.png)
 
 ![Alt Text](https://i.gifer.com/8GY4.gif)
-![img_1.png](img_1.png)
+![img_1.png](1.png)
 
-![img_2.png](img_2.png)
+![img_2.png](3.png)
 
 ## Bibliografía
 - https://facartes.uniandes.edu.co/patrimonio/reggae-patrimonio/#:~:text=El%20reggae%20surgi%C3%B3%20como%20estilo,%2C%20soul%2C%20blues%20y%20rock.
