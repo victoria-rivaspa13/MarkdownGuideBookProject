@@ -7,5 +7,7 @@ Estilos de Musica
 [Clasica](Musica_Clasica.md)
 
 Aguilar Thiago
-Juan Prieto
+
+Prieto Juan
+
 Rivas Patrese Victoria
