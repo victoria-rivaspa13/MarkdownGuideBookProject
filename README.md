@@ -3,7 +3,7 @@ Estilos de Musica
 
 [Pop](pop.md)
 
-[Reggae](reggae_información.md)
+[Reggae](reggae información.md)
 
 [Clasica](Musica_Clasica.md)
 
